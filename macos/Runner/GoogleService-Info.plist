@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>898375381108-du8qe9oasteag5knljtnb73057suhgo9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.898375381108-du8qe9oasteag5knljtnb73057suhgo9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2enAc4S7CzjXW4HNZonOPGpTj1QL-DMA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>898375381108</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crazyapps.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>crazyapps-e71d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crazyapps-e71d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:898375381108:ios:47145e5c0896fc8d02e121</string>
+	<key>DATABASE_URL</key>
+	<string>https://crazyapps-e71d4-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

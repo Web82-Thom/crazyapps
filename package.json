@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@googleapis/firebasedatabase": "^2.0.1"
+  }
+}
